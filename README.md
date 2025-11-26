@@ -27,6 +27,13 @@ A comprehensive multi-purpose industry tool for managing and optimizing your Moo
 - **Secondary Outputs**: Optional inclusion of mineral byproducts (Pyerite, Mexallon)
 - **Market Price Updates**: Recalculate profitability with latest Jita prices anytime
 
+### 🚀 Industry
+- **Industry Job Checker**: Import and check the status of your industry jobs across all of your characters
+- **Visualisation**: Visualize your blueprint, production cycles and industry input/output item flow
+
+### 🤖 Discord Notifications
+- **Direct Chat Notification**: Sends your updates when your PI or Industry will stop or run into bottlenecks
+
 ## ESI API Integration & Data Flow
 
 The application integrates with the following EVE Online ESI API endpoints:
