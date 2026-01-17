@@ -15,7 +15,8 @@ A comprehensive multi-purpose industry tool for managing and optimizing your Moo
 ### 🌍 Planetary Interaction
 - **Multi-character Support**: Add multiple characters to a single account using EVE universe IDs
 - **Colony Overview**: View all your planetary colonies, their layouts, and outputs in one place
-- **Production Analysis**: Calculate current ISK values and potential yields at ~87.6% processing efficiency
+- **Production Flow Analysis**: Calculate current ISK values and potential yields at ~87.6% processing efficiency
+- **Smart Facility Monitoring**: Know which facilities are REALLY producing.
 - **Storage Monitoring**: Track facility contents and capacity
 - **Extractor Management**: Monitor extractor cycles and depletion times
 
@@ -28,6 +29,8 @@ A comprehensive multi-purpose industry tool for managing and optimizing your Moo
 - **Market Price Updates**: Recalculate profitability with latest Jita prices anytime
 
 ### 🚀 Industry
+- **Industry Profitability Check**: Check what is currently profitable to produce ISK/Hour or Revenue
+- **Industry Calculator**: Instant profitability calculation for any industry job.
 - **Industry Job Checker**: Import and check the status of your industry jobs across all of your characters
 - **Visualisation**: Visualize your blueprint, production cycles and industry input/output item flow
 
